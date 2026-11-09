@@ -1,0 +1,10 @@
+1- Video A: +
+2- Video B: +
+3- Bölüm 5: (ctrl+F Function Application and Mapping) apply/map, sıralama ve rank.
+4- Bölüm 6: read_csv parametreleri (parse_dates, index_col, dtype, na_values). Göz gezdirmen yeterli.
+5- Bölüm 7: eksik veri detayları, replace, pd.cut, .str metotları, categorical.
+6- Bölüm 8: ⚠️ videoda yok, önemli. MultiIndex, merge/join/concat, pivot/melt/stack.
+            Gerçek veri neredeyse hiç tek tablo halinde gelmez.
+7- Bölüm 10: ⚠️ videodaki temel aggregation’ın ötesi, önemli. Çoklu agg, transform, pivot_table, crosstab.
+8- Bölüm 11: ⚠️ videoda yok, en önemlisi. DatetimeIndex, resample, shift, rolling,
+            saat dilimi. EPİAŞ verisinin tamamı bu konular üzerine.
